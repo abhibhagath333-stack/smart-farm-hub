@@ -9,7 +9,7 @@ const AbstractSection = () => {
             <FileText className="w-4 h-4" />
             Project Abstract
           </div>
-          <h2 className="section-title">Project Overview</h2>
+          <h2 className="section-title">Abstarct</h2>
         </div>
         <div className="bg-card rounded-2xl shadow-md border border-border p-8 md:p-10">
           <p className="text-foreground/90 leading-relaxed text-base md:text-lg">
